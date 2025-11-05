@@ -9,5 +9,5 @@ My current research focuses on **Agentic Reinforcement Learning (Agentic RL)** â
 ## Research Interests ðŸ”­
 
 My research primarily focuses on:
-- **ML Systems**: Topics related to **SGLang**, **AI Infra**, and **High Performance Computing**.
+- **ML Systems**: Topics related to **SGLang**, **veRL**, **AI Infra**, and **High Performance Computing**.
 - **RL Sys for Agents**: Topics related to **Coding Agent & Pipeline** and **RLHF for Multi-Agent Systems**.
